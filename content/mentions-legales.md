@@ -1,6 +1,5 @@
 +++
 title = "Mentions Légales"
-date = "2018"
 +++
 
 
@@ -9,7 +8,7 @@ par Acrimed Nantes, 2018
 Le site acrimed-nantes.org est publié par les membres nantais de l’association Acrimed, 39, rue du Faubourg-Saint-Martin, 75010 Paris. Il est hébergé par Netlify.
 
 
-Directeur de publication : [humans.txt](https://acrimed-nantes.org/humans.txt)
+Direction de la publication : Benjamin Lagues, Nicolas Servain, Guillaume Getz
 
 Sous Licence Creative Commons, les articles et informations publiées sur le site de l’Acrimed appartiennent à leurs auteurs. Leur reproduction est autorisée selon les termes du contrat Créative Commons disponible ici.
 
@@ -19,4 +18,4 @@ En d’autres termes, vous êtes libre de reproduire, distribuer et communiquer 
 
 - Si vous modifiez, transformez ou adaptez l’article, vous n’avez le droit de distribuer la création qui en résulte que sous un contrat identique à celui-ci.
 
-Toutes remarques ou réclamations concernant tout ou partie des articles publiés sur ce site peuvent être adressées via le répertoire github du projet.
+Toutes remarques ou réclamations concernant tout ou partie des articles publiés sur ce site peuvent être adressées via le [répertoire github du projet](https://github.com/jonathanulco/acrimed-nantes).
