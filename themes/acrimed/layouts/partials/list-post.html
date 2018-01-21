@@ -1,5 +1,5 @@
 <ul class="list-post">
-  {{ range .Pages }}
+  {{ range .Data.Pages }}
     <li><a href="{{ .URL }}"><span>{{ .Params.tag }} - {{ .Date | dateFormat "2 Janvier 2006" }}</span>{{ .Title }}</a></li>
   {{ end }}
 </ul>

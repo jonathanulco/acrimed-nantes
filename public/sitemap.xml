@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://acrimed-nantes.org/article/nouvelle-article/</loc>
+    <lastmod>2018-01-20T20:35:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/evenement/journalisme-investigation/</loc>
+    <lastmod>2018-01-20T15:12:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/evenement/journalisme-investigation-locale-lundi-5-fevrier-nantes/</loc>
+    <lastmod>2018-01-20T15:12:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/</loc>
+    <lastmod>2018-01-20T20:35:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/article/</loc>
+    <lastmod>2018-01-20T20:35:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/evenement/</loc>
+    <lastmod>2018-01-20T15:12:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/mentions-legales/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acrimed-nantes.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
