@@ -1,0 +1,76 @@
+// COLOR
+$color-main: #323a97;
+$white: #fefefe;
+$dark: #343434;
+
+// BREAKPOINT
+$tiny: 38.786em !default; // 543px
+$small: 54.786em !default; // 767px
+$medium: 70.786em !default; // 991px
+$large: 85.643em !default; // 1199px
+$extra-large: 102.786em !default; // 1439px
+
+// SAFE MOBILE
+body {font-family: -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  Oxygen,
+  Ubuntu,
+  Cantarell,
+  "Open Sans",
+  "Helvetica Neue",
+  sans-serif; /* font stack from Medium */
+}
+
+// GENERAL
+body {position:relative;display:flex;flex-direction:column;min-height:100vh;color:$dark;}
+.main {max-width:$small;margin:0 auto;padding:1rem;
+  @media (min-width:$medium){
+    & {padding:2rem 3rem;}
+  }
+}
+a {color:$color-main;font-weight:900;text-decoration:none;transition:all ease .3s;}
+.flex-container {display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:center;}
+article {font-size:1.4rem;letter-spacing:-.003em;line-height:1.4;
+  @media (min-width:$medium){
+    & {font-size:1.7rem;line-height:1.58;}
+  }
+}
+// HEADER
+.banner {background:$color-main;color:$white;
+  .flex-container {max-width:$medium;margin:0 auto;
+    .navigation {margin-left:auto;border-left:1px solid #fff;}
+  }
+  a {color:$white;}
+}
+// NAVIGATION
+.navigation {
+  ul {list-style:none;
+    li {
+      &.active a:after,
+      a:hover:after,
+      a:focus:after {content:'';position:absolute;left:50%;top:100%;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid #fff;transform:translateX(-50%);}
+    }
+    a {position:relative;padding:.5rem 1rem;}
+
+  }
+}
+// FOOTER
+.footer {margin-top:auto;background:#d7d7d7;border-top:1px solid #343434;
+  ul {justify-content:space-around;list-style:none;
+    a:hover,
+    a:focus {text-decoration:underline;}
+  }
+}
+//list-post
+.list-post {list-style:none;
+  li {border-bottom:1px solid #333;
+    &:last-child {border:none;}
+  }
+  a {display:block;padding:1rem 2rem;text-decoration:none;
+    &:hover,
+    &:focus {transform:translateX(1rem);}
+  }
+  span {display:block;text-transform:uppercase;}
+}

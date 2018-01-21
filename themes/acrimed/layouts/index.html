@@ -1,0 +1,10 @@
+{{ define "title" }}
+  {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<ul class="list-post">
+  {{ range .Pages }}
+    <li><a href="{{ .URL }}"><span>{{ .Params.tag }}</span>{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}

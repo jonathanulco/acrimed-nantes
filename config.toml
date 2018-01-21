@@ -1,0 +1,24 @@
+baseURL = "https://acrimed-nantes.org/"
+DefaultContentLanguage = "fr"
+languageCode = "fr-fr"
+title = "Acrimed Nantes"
+theme = "acrimed"
+
+[[menu.main]]
+  name = "Accueil"
+  weight = 1
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Événement"
+  weight = 2
+  identifier = "event"
+  url = "/evenement/"
+[[menu.main]]
+  name = "Article"
+  weight = 3
+  identifier = "article"
+  url = "/article/"
+
+[taxonomies]
+  tag = "tags"
