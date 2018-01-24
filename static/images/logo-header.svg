@@ -47,8 +47,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.99796423"
-     inkscape:cx="266.45943"
-     inkscape:cy="-2.2240742"
+     inkscape:cx="250.92781"
+     inkscape:cy="33.849363"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -76,7 +76,7 @@
      y="0" />
   <text
      xml:space="preserve"
-     style="font-size:64.21108246px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#00000f;fill-opacity:1;stroke:none;stroke-width:3.00989461px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-size:64.21108246px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.00989461px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      x="516.32635"
      y="168.42125"
      id="text883"><tspan
@@ -84,5 +84,5 @@
        id="tspan881"
        x="516.32635"
        y="168.42125"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Heavy';fill:#00000f;fill-opacity:1;stroke:none;stroke-width:3.00989461px">NANTES</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Heavy';fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3.00989461px">NANTES</tspan></text>
 </svg>
