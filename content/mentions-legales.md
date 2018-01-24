@@ -7,8 +7,9 @@ par Acrimed Nantes, 2018
 
 Le site acrimed-nantes.org est publié par les membres nantais de l’association Acrimed, 39, rue du Faubourg-Saint-Martin, 75010 Paris. Il est hébergé par Netlify.
 
+Rédaction des contenus : Guillaume Getz, Benjamin Lagues, Jonathan Pansiot, Nicolas Servain.
 
-Direction de la publication : Benjamin Lagues, Nicolas Servain, Guillaume Getz
+Administration du site : Jonathan Pansiot.
 
 Sous Licence Creative Commons, les articles et informations publiées sur le site de l’Acrimed appartiennent à leurs auteurs. Leur reproduction est autorisée selon les termes du contrat Créative Commons disponible ici.
 
