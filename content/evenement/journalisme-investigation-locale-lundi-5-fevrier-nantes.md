@@ -1,6 +1,6 @@
 ---
 title: "Journalisme Investigation Locale Lundi 5 Fevrier Nantes"
-date: 2018-01-20T15:12:31+01:00
+date: 2018-01-20
 author: "Nicolas Servain, Benjamin Lagues"
 tag: "événement"
 ---

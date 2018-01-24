@@ -10,4 +10,4 @@ La douzième version de l'infographie évolutive sur les propriètaires de la pr
 
 À Nantes et ses alentours, nous retiendrons que la plupart de la presse Ouest France, Presse Océan vit sous le contrôle de la Famille Hutin.
 
-![Cartographie des propriètaires de la presse en France](/static/images/12-version-infographie-media-qui-possede-quoi.png)
+![Cartographie des propriètaires de la presse en France](/images/12-version-infographie-media-qui-possede-quoi.png)
