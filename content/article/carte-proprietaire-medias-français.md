@@ -1,5 +1,5 @@
 ---
-title: "Médias français : qui possède quoi ? "
+title: "Médias français : qui possède quoi ?"
 date: 2018-01-24
 author: "Jonathan Pansiot"
 tag: "article"
