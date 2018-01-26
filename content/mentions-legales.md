@@ -1,6 +1,7 @@
-+++
-title = "Mentions Légales"
-+++
+---
+title: "Mentions Légales"
+description: "Informations légales de l'antenne locale nantaise d'Acrimed"
+---
 
 
 par Acrimed Nantes, 2018

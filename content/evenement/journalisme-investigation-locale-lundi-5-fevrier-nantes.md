@@ -1,6 +1,7 @@
 ---
 title: "Journalisme et Investigation Locale Lundi 5 Fevrier Nantes"
 date: 2018-01-20
+description: "Quelles formes le journalisme d'investigation locale peut-il prendre aujourd’hui ?"
 author: "Nicolas Servain, Benjamin Lagues"
 tag: "événement"
 ---

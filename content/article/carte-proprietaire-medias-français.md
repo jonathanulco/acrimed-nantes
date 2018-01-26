@@ -1,6 +1,7 @@
 ---
 title: "Médias français : qui possède quoi ?"
 date: 2018-01-24
+description: "Retrouvez la douzième version de l'infographie évolutive sur les propriètaires de la presse en France"
 author: "Jonathan Pansiot"
 tag: "article"
 ---

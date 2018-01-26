@@ -2,6 +2,7 @@
   {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
+<h1>Informations de l'Antenne Action-Critique-Médias de Nantes et ses environs.</h1>
 <ul class="list-post">
   {{ range .Pages }}
     <li><a href="{{ .URL }}"><span>{{ .Params.tag }}</span>{{ .Title }}</a></li>

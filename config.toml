@@ -3,6 +3,7 @@ DefaultContentLanguage = "fr"
 languageCode = "fr-fr"
 title = "Acrimed Nantes"
 theme = "acrimed"
+description = "Site de l'antenne locale d'Acrimed Nantes. Retrouvez nos articles, les événéments et les ateliers proposés par Acrimed Nantes."
 
 [[menu.main]]
   name = "Accueil"

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://acrimed-nantes.org/sitemap.xml
